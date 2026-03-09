@@ -20,7 +20,6 @@ import javax.swing.JFrame;
 	        //Posicionarlo en mitad de la pantalla
 	        setLocationRelativeTo(null);
 	        
-	        //Prohibir el botón maximizar
 	        setResizable(false);
 	        	        
 	        PanelMenu panel = new PanelMenu();

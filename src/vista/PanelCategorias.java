@@ -14,7 +14,7 @@ package vista;
 
 	    public PanelCategorias() {
 	        setLayout(null);
-	        setBackground(Color.LIGHT_GRAY);
+	        setBackground(Color.blue);
 	        
 
 	                

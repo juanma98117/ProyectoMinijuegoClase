@@ -24,7 +24,7 @@ public class PanelCreditos extends JPanel {
         creditos.setText(
             "CREDITOS DEL JUEGO\n\n" +
             "Desarrollador: Juan Manuel Francisco Mendoza\n José Ramón Neira Vega\n José\n " +
-            "Diseño Gráfico: Juan Manuel Francisco Mendoza\\n José Ramón Neira Vega\\n José  \"" +
+            "Diseño Gráfico: Juan Manuel Francisco Mendoza\\n José Ramón Neira Vega\\n José Fernández Díaz   \"" +
             "Música de fondo: CancionFondo.wav\n" +
             "Idea original: Proyecto Educativo\n" +
             "Gracias por jugar nuestro juego!"

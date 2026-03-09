@@ -14,7 +14,7 @@ public class PanelJuego extends JPanel {
 
     public PanelJuego() {
         setLayout(null);
-        setBackground(Color.LIGHT_GRAY);
+        setBackground(Color.blue);
         
 
                 

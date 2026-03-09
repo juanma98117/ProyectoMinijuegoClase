@@ -87,7 +87,6 @@ public class PanelMenu extends JPanel {
 		});
 
 
-		// Tamaño fijo del panel
 		setBounds(0, 0, 1000, 800);
 	}
 
